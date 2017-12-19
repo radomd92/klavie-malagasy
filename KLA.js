@@ -1,5 +1,5 @@
 {
-    "label": "terakasorotany.mg.ansi",
+    "label": "Malagasy v2.1-rado",
     "fingerStart": {
         "1": 29,
         "2": 30,
@@ -211,8 +211,8 @@
             "id": 28
         },
         {
-            "primary": 101,
-            "shift": 69,
+            "primary": 111,
+            "shift": 79,
             "finger": 1,
             "id": 29,
             "altGr": -1,
@@ -243,8 +243,8 @@
             "shiftAltGr": -1
         },
         {
-            "primary": 111,
-            "shift": 79,
+            "primary": 101,
+            "shift": 69,
             "finger": 4,
             "id": 33,
             "altGr": -1,
@@ -259,8 +259,8 @@
             "shiftAltGr": -1
         },
         {
-            "primary": 109,
-            "shift": 77,
+            "primary": 116,
+            "shift": 84,
             "finger": 7,
             "id": 35,
             "altGr": -1,
@@ -275,16 +275,16 @@
             "shiftAltGr": -1
         },
         {
-            "primary": 114,
-            "shift": 82,
+            "primary": 109,
+            "shift": 77,
             "finger": 9,
             "id": 37,
             "altGr": -1,
             "shiftAltGr": -1
         },
         {
-            "primary": 115,
-            "shift": 83,
+            "primary": 114,
+            "shift": 82,
             "finger": 10,
             "id": 38,
             "altGr": -1,
@@ -355,8 +355,8 @@
             "shiftAltGr": -1
         },
         {
-            "primary": 116,
-            "shift": 84,
+            "primary": 115,
+            "shift": 83,
             "finger": 7,
             "id": 48,
             "altGr": -1,
