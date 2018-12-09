@@ -1,0 +1,6 @@
+    WARNING: The character ỳ (U+1ef3) exists in the entry for VK_S, ShiftState 'Ctl+Alt' of the layout table and is not in the default system code page (1252) of the French (France) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character Ỳ (U+1ef2) exists in the entry for VK_S, ShiftState 'Shift+Ctl+Alt' of the layout table and is not in the default system code page (1252) of the French (France) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: '<' defined on OEM_102 (Base) but not defined elsewhere. This key may not be present on all keyboards.
+    WARNING: '>' defined on OEM_102 (Shift) but not defined elsewhere. This key may not be present on all keyboards.
+    WARNING: The dead key ` (U+0060) when combined with y (U+0079) returns ỳ (U+1ef3), but ỳ (U+1ef3) is not on the default system code page (1252) of the French (France) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The dead key ` (U+0060) when combined with Y (U+0059) returns Ỳ (U+1ef2), but Ỳ (U+1ef2) is not on the default system code page (1252) of the French (France) language you specified. This may cause compatibility problems in non-Unicode applications.
