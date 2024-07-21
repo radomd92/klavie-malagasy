@@ -34,6 +34,23 @@ Tsindrio indroa ny `setup.exe`. Rehefa vita izany dia tokony mahita hafatra toa 
 
 ### Dingana faharoa: Fampiasana (Windows 10)
 
+Ovay ny safidy ara-piteny (préférences linguistiques)
+
+![image](https://github.com/user-attachments/assets/dbd6ea10-47e3-42d3-bc42-ce6fef3f0725)
+
+Ataovy `Ajouter une langue` dia soraty `Malagasy`
+
+![image](https://github.com/user-attachments/assets/103fe6e4-78f9-47b7-9640-a59cfcacd279)
+Rehefa nampiana ny teny malagasy dia tsindrio ny `options` dia `Ajouter un clavier`
+
+Tadiavo ao amin'ny lisitra ny hoe `Malagasy - Ergonomic Keyboard 2.2
+
+![image](https://github.com/user-attachments/assets/6eedabed-3557-4609-9cd0-334a9113fbd7)
+
+Rehefa vita izany dia ao amin'ny lisitry ny fitendry azonao ampiasaina amin'izay ny fitendry malagasy.
+
+![image](https://github.com/user-attachments/assets/a4682e0c-aff8-4ff4-b98b-2a6a1f911e4f)
+![image](https://github.com/user-attachments/assets/814e9812-eb2b-4e03-a8de-98eb51aa9d55)
 
 
 ## Fanalana amin'ny solosaina
