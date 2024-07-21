@@ -50,7 +50,8 @@ Tadiavo ao amin'ny lisitra ny hoe `Malagasy - Ergonomic Keyboard 2.2
 Rehefa vita izany dia ao amin'ny lisitry ny fitendry azonao ampiasaina amin'izay ny fitendry malagasy.
 
 ![image](https://github.com/user-attachments/assets/a4682e0c-aff8-4ff4-b98b-2a6a1f911e4f)
-![image](https://github.com/user-attachments/assets/814e9812-eb2b-4e03-a8de-98eb51aa9d55)
+
+![image](https://github.com/user-attachments/assets/23b786cc-26f0-4157-a445-e2e85ac4c5a2)
 
 
 ## Fanalana amin'ny solosaina
