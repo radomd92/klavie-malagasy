@@ -9,17 +9,6 @@ All tests on the optimised keyboard are done using the [Keyboard Layout Analyzer
 This repository also contains the project files for Keyboard Layout Creator and the corresponding installers to allow you to deploy the keyboard layout
 on a Microsoft Windows machine.
 
-## Modified Version 2.2
+## Versiona 3.0
 
-### Base state
-![image](https://github.com/user-attachments/assets/b3920276-c169-45c0-a401-bbae6bc5314d)
-
-### Shift 
-![image](https://github.com/user-attachments/assets/9856cf64-4847-46c4-aeae-6f2da06d4614)
-
-### Alt+Gr
-![image](https://github.com/user-attachments/assets/a39c80de-e541-407d-9fd6-516fc5f037de)
-
-### Shift+Alt+Gr
-![image](https://github.com/user-attachments/assets/b5d70b2f-e44f-453b-9ed6-1cb94e5e64d6)
-
+![image](https://github.com/user-attachments/assets/a7c602e3-a921-4db0-b2df-90fa3125a46d)

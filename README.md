@@ -8,17 +8,6 @@ Ny andrana rehetra mahakasika ity fitendry nohatsaraina ho an'ny fanoratana teny
 
 Ity repository ity dia ahitana ireo [installateur hahafahana mampiasa ilay fitendry ergonomika](https://github.com/radomd92/klavie-malagasy/tree/master/malagasy) eo amina solosaina mampiasa Windows.
 
-## Versiona 2.2
+## Versiona 3.0
 
-### Fototra
-![image](https://github.com/user-attachments/assets/b3920276-c169-45c0-a401-bbae6bc5314d)
-
-### Shift 
-![image](https://github.com/user-attachments/assets/9856cf64-4847-46c4-aeae-6f2da06d4614)
-
-### Alt-Gr
-![image](https://github.com/user-attachments/assets/a39c80de-e541-407d-9fd6-516fc5f037de)
-
-### Shift+Alt-Gr
-![image](https://github.com/user-attachments/assets/b5d70b2f-e44f-453b-9ed6-1cb94e5e64d6)
-
+![image](https://github.com/user-attachments/assets/a7c602e3-a921-4db0-b2df-90fa3125a46d)
